@@ -32,6 +32,8 @@ We are thrilled to introduce **LLaDA2.0**, a milestone series of discrete diffus
 | --- | --- | --- |
 | `inclusionAI/LLaDA2.0-mini` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-mini) |
 | `inclusionAI/LLaDA2.0-flash` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-flash) |
+| `inclusionAI/LLaDA2.0-mini-CAP` | Enhanced with Confidence-Aware Parallel, for efficient inference. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-mini-CAP) |
+| `inclusionAI/LLaDA2.0-flash-CAP` | Enhanced with Confidence-Aware Parallel, for efficient inference. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-flash-CAP) |
 
 
 ## Evaluation Results
