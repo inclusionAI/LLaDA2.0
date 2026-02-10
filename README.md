@@ -65,6 +65,15 @@ This project is licensed under the terms of the [Apache License 2.0](https://www
 
 ## Citation
 ```bibtex
+@misc{bie2026llada21speedingtextdiffusion,
+      title={LLaDA2.1: Speeding Up Text Diffusion via Token Editing}, 
+      author={Tiwei Bie and Maosong Cao and Xiang Cao and Bingsen Chen and Fuyuan Chen and Kun Chen and Lun Du and Daozhuo Feng and Haibo Feng and Mingliang Gong and Zhuocheng Gong and Yanmei Gu and Jian Guan and Kaiyuan Guan and Hongliang He and Zenan Huang and Juyong Jiang and Zhonghui Jiang and Zhenzhong Lan and Chengxi Li and Jianguo Li and Zehuan Li and Huabin Liu and Lin Liu and Guoshan Lu and Yuan Lu and Yuxin Ma and Xingyu Mou and Zhenxuan Pan and Kaida Qiu and Yuji Ren and Jianfeng Tan and Yiding Tian and Zian Wang and Lanning Wei and Tao Wu and Yipeng Xing and Wentao Ye and Liangyu Zha and Tianze Zhang and Xiaolu Zhang and Junbo Zhao and Da Zheng and Hao Zhong and Wanli Zhong and Jun Zhou and Junlin Zhou and Liwang Zhu and Muzhi Zhu and Yihong Zhuang},
+      year={2026},
+      eprint={2602.08676},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.08676}, 
+}
 @misc{bie2025llada20scalingdiffusionlanguage,
       title={LLaDA2.0: Scaling Up Diffusion Language Models to 100B}, 
       author={Tiwei Bie and Maosong Cao and Kun Chen and Lun Du and Mingliang Gong and Zhuochen Gong and Yanmei Gu and Jiaqi Hu and Zenan Huang and Zhenzhong Lan and Chengxi Li and Chongxuan Li and Jianguo Li and Zehuan Li and Huabin Liu and Ling Liu and Guoshan Lu and Xiaocheng Lu and Yuxin Ma and Jianfeng Tan and Lanning Wei and Ji-Rong Wen and Yipeng Xing and Xiaolu Zhang and Junbo Zhao and Da Zheng and Jun Zhou and Junlin Zhou and Zhanchao Zhou and Liwang Zhu and Yihong Zhuang},
